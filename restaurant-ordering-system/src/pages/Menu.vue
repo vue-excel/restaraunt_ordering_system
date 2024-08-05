@@ -1,4 +1,4 @@
-<template>
+c:\Users\Etech\Desktop\hrm\restaurant-ordering-system\frontend\src\pages\MyOrder.vue<template>
     <div class="menu-section">
         <div class="heading">
             <span>menu</span>
